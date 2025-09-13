@@ -1,0 +1,10 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "telegraf": "^4.15.3",
+    "mongoose": "^7.6.1",
+    "qrcode": "^1.5.3"
+  }
+}
